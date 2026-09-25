@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Affiliate OS">
+  <rect width="512" height="512" rx="96" fill="#17213a"/>
+  <circle cx="150" cy="338" r="24" fill="#3ddc97"/>
+  <circle cx="256" cy="122" r="24" fill="#3ddc97"/>
+  <circle cx="362" cy="338" r="24" fill="#3ddc97"/>
+  <path d="M150 338L256 122L362 338M194 252H318" fill="none" stroke="#62aaff" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M196 363a145 145 0 0 1-52-54" fill="none" stroke="#f8fafc" stroke-width="10" stroke-linecap="round"/>
+  <text x="256" y="445" text-anchor="middle" fill="#f8fafc" font-family="Arial,Segoe UI,sans-serif" font-size="56" font-weight="700">AOS</text>
+</svg>
